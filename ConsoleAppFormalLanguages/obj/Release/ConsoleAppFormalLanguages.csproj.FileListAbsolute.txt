@@ -1,0 +1,10 @@
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\bin\Release\ConsoleAppFormalLanguages.exe.config
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\bin\Release\ConsoleAppFormalLanguages.exe
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\bin\Release\ConsoleAppFormalLanguages.pdb
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\bin\Release\FormalLanguagesLibrary.dll
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\bin\Release\FormalLanguagesLibrary.pdb
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\obj\Release\ConsoleAppFormalLanguages.csproj.AssemblyReference.cache
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\obj\Release\ConsoleAppFormalLanguages.csproj.CoreCompileInputs.cache
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\obj\Release\ConsoleA.22D412F1.Up2Date
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\obj\Release\ConsoleAppFormalLanguages.exe
+C:\C#_programms\FromGrammarToNDA\ConsoleAppFormalLanguages\obj\Release\ConsoleAppFormalLanguages.pdb
