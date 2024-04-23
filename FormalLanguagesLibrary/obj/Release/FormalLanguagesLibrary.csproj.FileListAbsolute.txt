@@ -1,0 +1,6 @@
+C:\C#_programms\FromGrammarToNDA\FormalLanguagesLibrary\bin\Release\FormalLanguagesLibrary.dll
+C:\C#_programms\FromGrammarToNDA\FormalLanguagesLibrary\bin\Release\FormalLanguagesLibrary.pdb
+C:\C#_programms\FromGrammarToNDA\FormalLanguagesLibrary\obj\Release\FormalLanguagesLibrary.csproj.AssemblyReference.cache
+C:\C#_programms\FromGrammarToNDA\FormalLanguagesLibrary\obj\Release\FormalLanguagesLibrary.csproj.CoreCompileInputs.cache
+C:\C#_programms\FromGrammarToNDA\FormalLanguagesLibrary\obj\Release\FormalLanguagesLibrary.dll
+C:\C#_programms\FromGrammarToNDA\FormalLanguagesLibrary\obj\Release\FormalLanguagesLibrary.pdb
